@@ -57,14 +57,21 @@
       <div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">I'm Sam Obeid.</h1>
-            <h3>I'm a San Antonio based, Hard-working, dedicated <span>Junior Web Developer</span> seeking an innovative organization where I can
-                meaningfully contribute and provide value while flourishing in my craft. Let's <a class="smoothscroll" href="#about">start scrolling</a>
-            and learn more about me.</h3>
+            <h3>I'm a San Antonio based <span>Web Developer</span>, creating awesome and
+            effective visual identities for companies of all sizes around the globe. Let's <a class="smoothscroll" href="#about">start scrolling</a>
+            and learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
             <hr />
             <ul class="social">
                <li><a target="_blank" href="https://www.facebook.com/azzam.obied"><i class="fa fa-facebook"></i></a></li>
+<<<<<<< HEAD
                <li><a target="_blank" href="https://www.linkedin.com/in/azzam-obeid-4a535b113/"><i class="fa fa-linkedin"></i></a></li>
                <li><a target="_blank" href="https://www.instagram.com/3azzam_2011/?hl=en"><i class="fa fa-instagram"></i></a></li>
+=======
+
+               <li><a target="_blank" href="https://www.linkedin.com/in/azzam-obeid-4a535b113/"><i class="fa fa-linkedin"></i></a></li>
+               <li><a target="_blank" href="https://www.instagram.com/3azzam_2011/?hl=en"><i class="fa fa-instagram"></i></a></li>
+
+>>>>>>> e579a1befe32b254185d1bd3e42711b9dea31d80
                <li><a target="_blank" href="https://join.skype.com/invite/GlrXhuh4Gj85"><i class="fa fa-skype"></i></a></li>
             </ul>
          </div>
@@ -94,7 +101,11 @@
             <h2>About Me</h2>
 
             <p>
+<<<<<<< HEAD
                Hi! my name is Azzam Obeid but everyone calls me Sam, and I am a Web Developer. Even though I started developing after I got my BS
+=======
+               Hi! my name is Sam Obeid, and I am a Web Developer. Even though I started developing after I got my BS
+>>>>>>> e579a1befe32b254185d1bd3e42711b9dea31d80
                 in Managerial Sciences from Georgia State University, but I still wish that I uitilized these years to learn how to build
                 applications and develop websites. I recently moved from Atlanta  and now based in San Antonio Texas, after
                 I moved, I went to coding school to boost and and sharpen my skills in writing code. This helped me take bigger steps,
@@ -120,7 +131,11 @@
 
                <div class="columns download">
                   <p>
+<<<<<<< HEAD
                      <a target="_blank" href="SamObeidResume.pdf" class="button">View Resume</a>
+=======
+                     <a target="_blank" href="AzzamResume.pdf" class="button">View Resume</a>
+>>>>>>> e579a1befe32b254185d1bd3e42711b9dea31d80
                   </p>
                </div>
 
@@ -241,6 +256,15 @@
 
          <div class="nine columns main-col">
 
+<<<<<<< HEAD
+=======
+            <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+            eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+            voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
+            voluptatem sequi nesciunt.
+            </p> -->
+
+>>>>>>> e579a1befe32b254185d1bd3e42711b9dea31d80
 				<div class="bars">
 
 				   <ul class="skills">
@@ -270,146 +294,146 @@
 
          <div class="twelve columns collapsed">
 
-            <h1>Check Out My Latest Project.</h1>
+            <h1>Check Out Some of My Works.</h1>
 
             <!-- portfolio-wrapper -->
-            <div id="portfolio-wrapper" class="bgrid-quarters m-bgrid-thirds cf">
+            <div id="portfolio-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
 
           	   <div class="columns portfolio-item">
                   <div class="item-wrap">
 
                      <a href="#modal-01" title="">
-                        <img alt="" src="images/work-cover.png">
+                        <img alt="" src="images/portfolio/coffee.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>ADHD Scoring Form</h5>
-                              <p>Scoring Application</p>
+          					      <h5>Coffee</h5>
+                              <p>Illustrration</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
                      </a>
 
                   </div>
-          		</div> 
+          		</div> <!-- item end -->
 
-               <!-- <div class="columns portfolio-item">
+               <div class="columns portfolio-item">
                   <div class="item-wrap">
 
                      <a href="#modal-02" title="">
-                        <img alt="" src="#">
+                        <img alt="" src="images/portfolio/console.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>#</h5>
-                              <p>#</p>
+          					      <h5>Console</h5>
+                              <p>Web Development</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
                      </a>
 
                   </div>
-          		</div> item end -->
+          		</div> <!-- item end -->
 
-               <!-- <div class="columns portfolio-item">
+               <div class="columns portfolio-item">
                   <div class="item-wrap">
 
                      <a href="#modal-03" title="">
-                        <img alt="" src="#">
+                        <img alt="" src="images/portfolio/judah.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>#</h5>
-                              <p>#</p>
+          					      <h5>Judah</h5>
+                              <p>Webdesign</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
                      </a>
 
                   </div>
-          		</div> item end -->
+          		</div> <!-- item end -->
 
-               <!-- <div class="columns portfolio-item">
+               <div class="columns portfolio-item">
                   <div class="item-wrap">
 
                      <a href="#modal-04" title="">
-                        <img alt="" src="#">
+                        <img alt="" src="images/portfolio/into-the-light.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>#</h5>
-                              <p>#</p>
+          					      <h5>Into The Light</h5>
+                              <p>Photography</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
                      </a>
 
                   </div>
-          		</div> item end -->
+          		</div> <!-- item end -->
 
-               <!-- <div class="columns portfolio-item">
+               <div class="columns portfolio-item">
                   <div class="item-wrap">
 
                      <a href="#modal-05" title="">
-                        <img alt="" src="#">
+                        <img alt="" src="images/portfolio/farmerboy.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>#</h5>
-                              <p>#</p>
+          					      <h5>Farmer Boy</h5>
+                              <p>Branding</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
                      </a>
 
                   </div>
-          		</div> item end -->
+          		</div> <!-- item end -->
 
-               <!-- <div class="columns portfolio-item">
+               <div class="columns portfolio-item">
                   <div class="item-wrap">
 
                      <a href="#modal-06" title="">
-                        <img alt="" src="#">
+                        <img alt="" src="images/portfolio/girl.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>#</h5>
-                              <p>#</p>
+          					      <h5>Girl</h5>
+                              <p>Photography</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
                      </a>
 
                   </div>
-          		</div> -->
+          		</div> <!-- item end -->
 
-               <!-- <div class="columns portfolio-item">
+               <div class="columns portfolio-item">
                   <div class="item-wrap">
 
                      <a href="#modal-07" title="">
-                        <img alt="" src="#">
+                        <img alt="" src="images/portfolio/origami.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>#</h5>
-                              <p>#</p>
+          					      <h5>Origami</h5>
+                              <p>Illustrration</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
                      </a>
 
                   </div>
-          		</div> item end -->
+          		</div> <!-- item end -->
 
-               <!-- <div class="columns portfolio-item">
+               <div class="columns portfolio-item">
                   <div class="item-wrap">
 
                      <a href="#modal-08" title="">
-                        <img alt="" src="i#">
+                        <img alt="" src="images/portfolio/retrocam.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>#</h5>
-                              <p>#</p>
+          					      <h5>Retrocam</h5>
+                              <p>Web Development</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
                      </a>
 
                   </div>
-          		</div>  item end -->
+          		</div>  <!-- item end -->
 
             </div> <!-- portfolio-wrapper end -->
 
@@ -424,19 +448,19 @@
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-coffee.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>ADHD Scoring Form </h4>
-			      <p>The NICHQ Vanderbilt Assessment Scales are used by healthcare professionals to help diagnose ADHD in children between the ages of 6 and 12. The function of this application is to answer the questions listed and do the calcuations of the entered scores in order to reflect the correct diagnosis</p>
-               <!-- <span class="categories"><i class="fa fa-tag"></i>Branding, Webdesign</span> -->
+			      <h4>Coffee Cup</h4>
+			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Branding, Webdesign</span>
 		      </div>
 
             <div class="link-box">
-               <a href="https://azzam-final-project.herokuapp.com/question_answers#link">Application Details</a>
+               <a href="http://www.behance.net">Details</a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
 	      </div><!-- modal-01 End -->
 
-         <!-- <div id="modal-02" class="popup-modal mfp-hide">
+         <div id="modal-02" class="popup-modal mfp-hide">
 
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-console.jpg" alt="" />
 
@@ -451,9 +475,9 @@
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
-	      </div>modal-02 End -->
+	      </div><!-- modal-02 End -->
 
-         <!-- <div id="modal-03" class="popup-modal mfp-hide">
+         <div id="modal-03" class="popup-modal mfp-hide">
 
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-judah.jpg" alt="" />
 
@@ -468,9 +492,9 @@
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
-	      </div>modal-03 End -->
+	      </div><!-- modal-03 End -->
 
-         <!-- <div id="modal-04" class="popup-modal mfp-hide">
+         <div id="modal-04" class="popup-modal mfp-hide">
 
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-intothelight.jpg" alt="" />
 
@@ -485,9 +509,9 @@
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
-	      </div> modal-04 End  -->
+	      </div><!-- modal-04 End -->
 
-         <!-- <div id="modal-05" class="popup-modal mfp-hide">
+         <div id="modal-05" class="popup-modal mfp-hide">
 
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-farmerboy.jpg" alt="" />
 
@@ -502,9 +526,9 @@
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
-	      </div>modal-05 End -->
+	      </div><!-- modal-05 End -->
 
-         <!-- <div id="modal-06" class="popup-modal mfp-hide">
+         <div id="modal-06" class="popup-modal mfp-hide">
 
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-girl.jpg" alt="" />
 
@@ -519,9 +543,9 @@
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
-	      </div>modal-06 End -->
+	      </div><!-- modal-06 End -->
 
-         <!-- <div id="modal-07" class="popup-modal mfp-hide">
+         <div id="modal-07" class="popup-modal mfp-hide">
 
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-origami.jpg" alt="" />
 
@@ -536,9 +560,9 @@
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
-	      </div>modal-07 End -->
+	      </div><!-- modal-07 End -->
 
-         <!-- <div id="modal-08" class="popup-modal mfp-hide">
+         <div id="modal-08" class="popup-modal mfp-hide">
 
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-retrocam.jpg" alt="" />
 
@@ -553,7 +577,7 @@
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
-	      </div><modal-01 End  -->
+	      </div><!-- modal-01 End -->
 
 
       </div> <!-- row End -->
@@ -561,7 +585,37 @@
    </section> <!-- Portfolio Section End-->
 
 
-   
+   <!-- Call-To-Action Section
+   ================================================== -->
+   <!-- <section id="call-to-action">
+
+      <div class="row">
+
+         <div class="two columns header-col">
+
+            <h1><span>Get Hosting.</span></h1>
+
+         </div>
+
+         <div class="seven columns">
+
+            <h2><a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">Host This Template on Dreamhost.</a></h2>
+            <p>Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>.
+					Get <span>$50 off</span> when you sign up with the promocode <span>STYLESHOUT</span>.
+					<!-- Simply type	the promocode in the box labeled “Promo Code” when placing your order. --></p>
+
+         <!-- </div>
+
+         <div class="three columns action">
+
+            <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT" class="button">Sign Up Now</a>
+
+         </div>
+
+      </div>
+
+   </section> Call-To-Action Section End -->
+
 
    <!-- Testimonials Section
    ================================================== -->
@@ -626,14 +680,105 @@
 
             <div class="ten columns">
 
-                <p class="lead"> I would love to hear from you...</p>
-                <form method="post" action="mailto:azzam3bied@gmail.com" >
-                    <button  class="submit" >Contact Me</button>
-                </form>
+                  <p class="lead"> I would love to hear from you...</p>
 
             </div>
 
          </div>
+
+         <div class="row">
+
+            <div class="eight columns">
+
+               <!-- form -->
+               <form  action="mailto:azzam3bied@gmail.com" method="post" id="contactForm" name="contactForm">
+					<fieldset>
+
+                  <div>
+						   <label for="contactName">Name <span class="required">*</span></label>
+						   <input type="text" value="" size="35" id="contactName" name="contactName">
+                  </div>
+
+                  <div>
+						   <label for="contactEmail">Email <span class="required">*</span></label>
+						   <input type="text" value="" size="35" id="contactEmail" name="contactEmail">
+                  </div>
+
+                  <div>
+						   <label for="contactSubject">Subject</label>
+						   <input type="text" value="" size="35" id="contactSubject" name="contactSubject">
+                  </div>
+
+                  <div>
+                     <label for="contactMessage">Message <span class="required">*</span></label>
+                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
+                  </div>
+
+                  <div>
+                     <button  class="submit" >Submit</button>
+                     <span id="image-loader">
+                        <img alt="" src="images/loader.gif">
+                     </span>
+                  </div>
+
+					</fieldset>
+				   </form> <!-- Form End -->
+
+               <!-- contact-warning -->
+               <div id="message-warning"> Error </div>
+               <!-- contact-success -->
+				   <div id="message-success">
+                  <i class="fa fa-check"></i>Your message was sent, thank you!<br>
+				   </div>
+
+            </div>
+
+
+            <aside class="four columns footer-widgets">
+
+               <div class="widget widget_contact">
+
+					   <h4>Address and Phone</h4>
+					   <p class="address">
+						   Sam Obeid<br>
+						   13254 Regency Forest <br>
+						   San Antonio, TX 78249 US<br>
+						   <span>(404) 956-2914</span>
+					   </p>
+
+				   </div>
+
+<<<<<<< HEAD
+=======
+               <!-- <div class="widget widget_tweets">
+
+                  <h4 class="widget-title">Latest Tweets</h4>
+
+                  <ul id="twitter">
+                     <li>
+                        <span>
+                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
+                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
+                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        </span>
+                        <b><a href="#">2 Days Ago</a></b>
+                     </li>
+                     <li>
+                        <span>
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+                        eaque ipsa quae ab illo inventore veritatis et quasi
+                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        </span>
+                        <b><a href="#">3 Days Ago</a></b>
+                     </li>
+                  </ul>
+
+		         </div> -->
+
+>>>>>>> e579a1befe32b254185d1bd3e42711b9dea31d80
+            </aside>
+
+      </div>
 
    </section> <!-- Contact Section End-->
 
@@ -648,13 +793,26 @@
 
             <ul class="social-links">
                <li><a target="_blank" href="https://www.facebook.com/azzam.obied"><i class="fa fa-facebook"></i></a></li>
+<<<<<<< HEAD
                <li><a target="_blank" href="https://www.linkedin.com/in/azzam-obeid-4a535b113/"><i class="fa fa-linkedin"></i></a></li>
                <li><a target="_blank" href="https://www.instagram.com/3azzam_2011/?hl=en"><i class="fa fa-instagram"></i></a></li>
+=======
+               <!-- <li><a href="#"><i class="fa fa-twitter"></i></a></li> -->
+               <!-- <li><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
+               <li><a target="_blank" href="https://www.linkedin.com/in/azzam-obeid-4a535b113/"><i class="fa fa-linkedin"></i></a></li>
+               <li><a target="_blank" href="https://www.instagram.com/3azzam_2011/?hl=en"><i class="fa fa-instagram"></i></a></li>
+               <!-- <li><a href="#"><i class="fa fa-dribbble"></i></a></li> -->
+>>>>>>> e579a1befe32b254185d1bd3e42711b9dea31d80
                <li><a target="_blank" href="https://join.skype.com/invite/GlrXhuh4Gj85"><i class="fa fa-skype"></i></a></li>
             </ul>
 
             <ul class="copyright">
+<<<<<<< HEAD
                <li>Copyright 2018 Azzam Obeid</li>
+=======
+               <li>&copy; Copyright 2014 CeeVee</li>
+               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+>>>>>>> e579a1befe32b254185d1bd3e42711b9dea31d80
             </ul>
 
          </div>
